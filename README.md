@@ -1,15 +1,3 @@
-# Sample Website
+# Free Code Camp Project: Tribute Page
 
-This is a sample website made as part of [*Learn Enough&trade; Git to Be
-Dangerous*](http://learnenough.com/git-tutorial), possibly the greatest
-beginner Git tutorial in the history of the Universe. You should totally
-[check it out](http://learnenough.com/git-tutorial), and be sure to [join
-the email list](http://learnenough.com/#email_list) and [follow @learnenough](http://twitter.com/learnenough) on Twitter.
-
-After finishing *Learn Enough&trade; Git to Be Dangerous*, you'll know enough
-Git to be *dangerous*. This means you'll be able to use Git to track changes in
-your projects, back up data, share your work with others, and collaborate with
-programmers and other users of Git.
-
-For more information on Git, see the
-[official Git documentation](https://git-scm.com/).
+This webpage is an introductory project for [FreeCodeCamp (FCC)](www.freecodecamp.com). FCC is a free, online coding bootcamp designed to teach students web technologies, including HTML, CSS, JavaScript, Bootstrap, jQuery, node.js & MongoDB, to name a few. This Tribute Page project consists of building a single, static webpage that introduces the viewer to a specific person. The instructions are simple: to incorporate a picture of the specific person, and a hyperlink that connects the viewer to their Wikipedia page. The webpage must also be "functionally similar" to the example, which incorporates responsive design methods. I've chosen my tribute to be about the music producer, [Rick Rubin](https://en.wikipedia.org/wiki/Rick_Rubin). Feel free to explore my Tribute Page and email any comments to me [@TheRealChrisEdwards](mailto: nofxguy90@gmail.com). Thanks!
