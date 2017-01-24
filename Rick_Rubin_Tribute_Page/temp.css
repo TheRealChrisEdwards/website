@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(84,135,84);
+}
+.container-fluid {
+  background-color: antiquewhite;
+  width: 90%;
+  border: 5px solid black;
+  border-radius: 30px;
+  margin: 30px auto;
+}
+.jumbotron {
+  background-color: antiquewhite;
+}
+.img-responsive {
+  margin: 30px auto;
+  border-style: solid;
+  border-width: 10px;
+  border-color: rgb(84,135,84);
+  border-radius: 50px;
+}
+.intro {
+  margin-top: 30px;
+  text-align: justify;
+}
+.container {
+  display: block;
+}
+.list_text {
+  margin-top: 15px;
+}
+.awards {
+  font-size: 16px;
+  padding-left: 0px;
+}
+#quote {
+  display: block;
+  background-color: darkgray;
+  left: 130px;
+  border: 0px hidden darkgray;
+  border-radius: 20px;
+  padding: 0px;
+  margin: auto;
+  width: 700px;
+  text-align: center;
+}
+.wiki_footer {
+  font-size: 17px;
+  padding-bottom: 20px;
+}
+.footer {
+  font-size: 17px;
+  padding: 5px 0px 18px;
+}
+h1 {
+  font-family: "Rock Salt", "Comic Sans MS";
+  text-align: center;
+  padding-bottom: 60px;
+  padding-top: 50px;
+}
+h2 {
+  font-family: "Permanent Marker", "Comic Sans MS";
+}
+p {
+  display: inline-block;
+}
+p1 {
+  font-family: "Kalam", Arial;
+  font-size: 18px;
+  line-height: 1.5;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+p2 {
+  font-family: "Cormorant SC", "Comic Sans MS";
+}
