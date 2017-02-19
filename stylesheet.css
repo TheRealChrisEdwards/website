@@ -39,7 +39,7 @@ h1 {
 }
 
 /* !! Font-size property is not working properly in class="intro" or <p> elements
-      Had to use an inline-style declaration for <p> in rubin_tribute_page.html
+      Had to use an inline-style declaration for <p> in index.html
       Check Bootstrap for conflicts!! */
 p {
   font-family: "Tinos", Arial;
